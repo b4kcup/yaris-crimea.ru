@@ -3,7 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="ba623b13-c21c-4477-ab39-d31fa957f1e3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dictionaries/vik.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yaris-crimea.ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/IZMENENIYa_PO_SAJTU__kopia.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/20170215_141340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/20180403_155109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/IMG-13578154c2caf96edbf978b893dfda7b-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/IMG-169881d70191f6a36101be13239422ca-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/IMG-474c1eb3160f40ed87302f1b248d5e96-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/IMG-a5a32e0f7f6940996ee6c90ead5a5c13-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Козырьки/IMG-ee31d2982af1dadf3c6c5f082df35eaa-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/20170426_174036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/20171025_155815.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/20180504_172644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-048fd18f6a1e78368bf0bd667feb5089-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-09737ac430f289c98c3131a9c1d157de-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-66004a5dfdc34cef1ed017a0366a2b15-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-912bd1585c8c2b92d38b014166e66f26-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-9fbcfeda3357fefe4642746dd224d452-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-bc7360f2594deb714a29b9b5fac4e5c0-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-f5a644a94b23503488259806844d3a3c-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы с примыканием/IMG-fef62fa3007b916a3e50ed3aafd25c93-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/20160922_133511.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/20170606_150207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/IMG-b552c248d2515791d90d5705f758e29e-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/IMG-c928344564759600244d47bd04d6fdf9-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/IMG_20180704_133534.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Навесы/IMG_20180704_133544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Рабочий процесс/IMG-c221e83a381b4f49cb0ea82ce1126e8b-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Рабочий процесс/IMG-c981074f5d3a69dede8d4aeb0876c637-V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Рабочий процесс/IMG_2087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Теплица/8_Z0FyNoCxU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Теплица/DS32afYTo94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Теплица/j-YK_TzpcnU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corrections/НАВЕСЫ/Теплица/pgfuSAMObgY.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +71,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
+    <option name="x" value="139" />
     <option name="y" value="23" />
     <option name="width" value="1088" />
     <option name="height" value="837" />
@@ -52,6 +89,11 @@
             <path>
               <item name="yaris-crimea.ru" type="b2602c69:ProjectViewProjectNode" />
               <item name="yaris-crimea.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yaris-crimea.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yaris-crimea.ru" type="462c0819:PsiDirectoryNode" />
+              <item name=".gitignore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yaris-crimea.ru" type="b2602c69:ProjectViewProjectNode" />
@@ -93,24 +135,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546256110834</updated>
-      <workItem from="1546256113366" duration="288000" />
+      <workItem from="1546256113366" duration="473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288000" />
+    <option name="totallyTimeSpent" value="473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="23" width="1088" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="139" y="23" width="1088" height="837" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3413002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3413002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
